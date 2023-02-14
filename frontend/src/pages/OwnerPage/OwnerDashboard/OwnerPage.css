@@ -1,0 +1,11 @@
+.pending {
+    background-color: yellow;
+    color: black;
+    text-align: center;
+}
+
+.available {
+    background-color: green;
+    color: white;
+    text-align: center;
+}

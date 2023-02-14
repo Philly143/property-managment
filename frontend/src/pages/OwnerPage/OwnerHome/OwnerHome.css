@@ -1,0 +1,33 @@
+h4 {
+    text-align: center;
+}
+
+.list_card {
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.available {
+    color: white;
+    background-color: green;
+    text-align: center;
+}
+
+.pending {
+    color: black;
+    background-color: yellow;
+    text-align: center;
+}
+
+.contingent {
+    color: white;
+    background-color: red;
+    text-align: center;
+}
+
+.edit-property {
+    text-align: center;
+}
+
+.delete-property{
+    float: right;
+}

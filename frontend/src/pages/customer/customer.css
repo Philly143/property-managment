@@ -1,0 +1,19 @@
+table {
+    text-align: center;
+}
+
+h5 {
+    font-style: italic;
+    color: grey
+}
+
+.title {
+    font-style: italic;
+    color: cornflowerblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 5vh;
+}
+
+
